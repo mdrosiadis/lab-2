@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: gr.upatras.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.46 s <<< FAILURE! - in gr.upatras.demo.DemoApplicationTests
+gr.upatras.demo.DemoApplicationTests  Time elapsed: 0.456 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

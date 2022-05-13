@@ -1,0 +1,8 @@
+gr/upatras/rest/example/ProductService.class
+gr/upatras/rest/example/CategoryService.class
+gr/upatras/rest/example/ICategoryService.class
+gr/upatras/rest/example/Category.class
+gr/upatras/rest/example/Product.class
+gr/upatras/rest/example/IProductService.class
+gr/upatras/rest/example/ProductController.class
+gr/upatras/rest/example/CategoryController.class
